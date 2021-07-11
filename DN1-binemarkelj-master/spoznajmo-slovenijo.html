@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>DN1</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"/>
+
+  <!-- leaflet knjižnica -->
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+
+  <!-- leaflet stili -->
+  <link rel="stylesheet" href="css/leaflet-routing-machine.css"/>
+  
+  <!-- dodajanje stile.css-->
+  <link rel="stylesheet" href="css/stili.css" type="text/css" />
+  
+  <!-- dodajanje skirpt-->
+  <script src="skripte/skripta.js"></script>
+  <script src="skripte/distance-util.js"></script>
+  
+  
+  
+</head>
+
+<body style>
+
+  <!-- MENI -->
+  <meni>
+    <table>
+      <tr>
+        <td class="info-element">Izbirni meni:</td>
+        <td>
+          <!-- dodajanje rob senca-->
+          <select class="rob senca" id="izbira">
+            <option value="ni_izbrano">Izberi akcijo</option>
+            <option value="fakultete">Dodaj fakultete</option>
+            <option value="kulturne_dediscine">Dodaj kulturne dediščine</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <!-- dodajanje gumba, rob, senca-->
+        <td align="right"><input class="rob senca akcija" type="button" disabled id="akcija" value="Izvedi izbiro"/input></td>
+        </tr>
+        <tr>
+          <td class="info-element">Najdeni rezultati:</td>
+          <td><label id="fakultete_rezultati">0</label> fakultet in <br><label id="kulturne_dediscine_rezultati">0</label> kulturnih dediščin</br></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <!-- dodajanje rob, senca-->
+            <button disabled class="rob senca odstrani" id="izbrisiRezultate"><img class="odstrani" src="slike/ikona-odstrani.png" ></img>Odstrani vse interesne točke</button>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><input id="idRadij" type="checkbox" name="radij" value="radij">Prikaz radijev na poti<br></td>
+        </tr>
+        <td class="info-element">Prikaži v bližini do: <td><input type="number" id="radij" value="0" min="0" max="6"/> km</td>
+        <tr>
+          <td class = "info-element">Smer poti:</td>
+          <td>
+            <input id="idDoFri" type="radio" name="pot" value="doFri" checked>Pot do FRI<br>
+            <input id="idIzFri" type="radio" name="pot" value="izFri">Pot iz FRI<br>
+          </td>
+        </tr>
+      </table>
+
+      <table class="noga">
+        <tr>
+          <!-- dodajanje poravnave, podčrtano, 3 mesta-->
+          <td colspan="3" style="text-decoration: underline; text-align: center;">Dodatne informacije o poti</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Dolžina poti:</td>
+          <td><label id="dolzinaPoti">0</label></td>
+          <td>točk</td>
+        </tr>
+        <tr>
+          <td>Prikazane interesne točke:</td>
+          <td><label id="prikazaneTocke">0</label></td>
+          <td>točk</td>
+        </tr>
+      </table>
+    </meni>
+
+    <!-- TELO -->
+    <!-- dodajanje rob, senca-->
+    <telo class="rob senca" id="mapa_id"></telo>
+
+    <!-- leaflet knjižnica za poti -->
+    <script src="skripte/leaflet-routing-machine.js"></script>
+  </body>
+
+  </html>

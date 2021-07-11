@@ -1,0 +1,79 @@
+select {
+  width: 100%;
+}
+
+meni {
+  margin: 10px;
+}
+
+.noga{
+  position:absolute;
+  bottom:0;
+  left:0;
+  margin: 10px;
+}
+
+.info-element {
+  text-align: right;
+  font-weight: bold;
+  padding-right: 20px;
+}
+
+table {
+  border-spacing: 0 10px;
+}
+
+button {
+  background: white;
+}
+
+.akcija {
+  background: url(../slike/ikona-akcija.png) no-repeat scroll;
+  background-position: 4px 2px;
+  height: 31px;
+  padding: 7px;
+  padding-left: 35px;
+  vertical-align: top
+}
+
+.odstrani {
+  color: darkred;
+  padding: 4px;
+  Display: flex; align-items: center;
+}
+
+telo {
+  flex: 1;
+  float: right;
+  margin: 10px;
+  overflow: visible;
+  padding: 10px;
+  display: inline-block;;
+  background-color: lightgray;
+}
+
+html{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0 0 0 0;
+  display: inline-flex;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0 0 0 0;
+  display: inline-flex;
+}
+
+.rob {
+  border: 1px solid transparent;
+  border-color: #C30C21;
+  border-radius: 4px;
+}
+
+.senca {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

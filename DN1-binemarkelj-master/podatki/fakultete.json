@@ -1,0 +1,617 @@
+[
+  {
+    "Ime": "Univerza v Ljubljani",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.uni-lj.si/",
+    "Ulica": "Kongresni trg",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "Wikidata": "Q1377",
+    "Wikipedia": "sl:Univerza v Ljubljani",
+    "lat": 46.0493006,
+    "lng": 14.50393
+  },
+  {
+    "Ime": "Nacionalni inštitut za biologijo, Biotehniška fakulteta, Oddelek za biologijo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Večna pot",
+    "lat": 46.0512282,
+    "lng": 14.4700761
+  },
+  {
+    "Ime": "Fakulteta za kmetijstvo in biosistemske vede",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.fkbv.um.si/index.php/en/",
+    "Ulica": "Pivola",
+    "PostnaStevilka": "2311",
+    "Mesto": "Hoče-Slivnica",
+    "lat": 46.5057339,
+    "lng": 15.6221868
+  },
+  {
+    "Ime": "Fakulteta za matematiko in fiziko, oddelek za matematiko",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jadranska ulica",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0419823,
+    "lng": 14.4897761
+  },
+  {
+    "Ime": "Fakulteta za matematiko in fiziko, oddelek za fiziko",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jadranska ulica",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0425769,
+    "lng": 14.4893776
+  },
+  {
+    "Ime": "Naravoslovnotehnična fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Aškerčeva cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0469425,
+    "lng": 14.4979803
+  },
+  {
+    "Ime": "Fakulteta za strojništvo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Aškerčeva cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0468605,
+    "lng": 14.4983594
+  },
+  {
+    "Ime": "Pravna fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.pf.um.si/",
+    "Ulica": "Mladinska ulica",
+    "PostnaStevilka": "2000",
+    "lat": 46.5626447,
+    "lng": 15.6457217
+  },
+  {
+    "Ime": "Fakulteta za farmacijo",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.ffa.uni-lj.si/",
+    "Ulica": "Aškerčeva cesta",
+    "Mesto": "Ljubljana",
+    "lat": 46.0468488,
+    "lng": 14.4976763
+  },
+  {
+    "Ime": "Naravoslovnotehniška fakulteta - Oddelek za tekstilstvo, grafiko in oblikovanje.",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.ntf.uni-lj.si/",
+    "Ulica": "Snežniška ulica",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0466952,
+    "lng": 14.4973836
+  },
+  {
+    "Ime": "Akademija za gledališče, radio, film in televizijo",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.agrft.uni-lj.si/",
+    "Ulica": "Nazorjeva ulica",
+    "PostnaStevilka": "1000",
+    "Wikidata": "Q414344",
+    "Wikipedia": "sl:Akademija za gledališče, radio, film in televizijo v Ljubljani",
+    "lat": 46.0525836,
+    "lng": 14.5046639
+  },
+  {
+    "Ime": "Akademija za likovno umetnost in oblikovanje",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.aluo.uni-lj.si",
+    "Ulica": "Erjavčeva cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0499725,
+    "lng": 14.4964234
+  },
+  {
+    "Ime": "BIotehniška fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "www.bf.uni-lj.si",
+    "Ulica": "Jamnikarjeva ulica",
+    "PostnaStevilka": "1000",
+    "lat": 46.0497007,
+    "lng": 14.4741346
+  },
+  {
+    "Ime": "Fakulteta za arhitekturo",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.fa.uni-lj.si",
+    "Ulica": "Zoisova cesta",
+    "PostnaStevilka": "1000",
+    "Wikidata": "Q3612463",
+    "lat": 46.0458733,
+    "lng": 14.5036194
+  },
+  {
+    "Ime": "Ekonomsko-poslovna fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.epf.um.si/",
+    "Ulica": "Razlagova ulica",
+    "PostnaStevilka": "2000",
+    "lat": 46.5619824,
+    "lng": 15.6521649
+  },
+  {
+    "Ime": "Ekonomsko-poslovna fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.epf.um.si/",
+    "Ulica": "Razlagova ulica",
+    "PostnaStevilka": "2000",
+    "lat": 46.561913,
+    "lng": 15.6535868
+  },
+  {
+    "Ime": "Filozofska fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Aškerčeva cesta",
+    "PostnaStevilka": "1000",
+    "lat": 46.0469248,
+    "lng": 14.4996603
+  },
+  {
+    "Ime": "Medicinska fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.mf.uni-mb.si/",
+    "Ulica": "Taborska ulica",
+    "PostnaStevilka": "2000",
+    "lat": 46.5547961,
+    "lng": 15.64731
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Koroška cesta",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "lat": 46.5640981,
+    "lng": 15.623243
+  },
+  {
+    "Ime": "FERI - G3",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5595153,
+    "lng": 15.6381305
+  },
+  {
+    "Ime": "Univerza v Mariboru",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.um.si/",
+    "Ulica": "Slomškov trg",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "Wikidata": "Q1378",
+    "Wikipedia": "sl:Univerza v Mariboru",
+    "lat": 46.5595309,
+    "lng": 15.6430575
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Slomškov Trg",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "lat": 46.559835,
+    "lng": 15.644418
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "slomškov trg",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "lat": 46.5596864,
+    "lng": 15.6447905
+  },
+  {
+    "Ime": "Peterlinov paviljon",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jadranska ulica",
+    "lat": 46.0419863,
+    "lng": 14.4893475
+  },
+  {
+    "Ime": "Fakulteta za zdravstvene vede",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.fzv.um.si/",
+    "Ulica": "Žitna ulica",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "lat": 46.5497816,
+    "lng": 15.64438
+  },
+  {
+    "Ime": "Fakulteta za gradbeništvo in geodezijo",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.042163,
+    "lng": 14.4928206
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Hajdrihova ulica",
+    "lat": 46.0415594,
+    "lng": 14.4920812
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Hajdrihova ulica",
+    "lat": 46.0421718,
+    "lng": 14.4924489
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Hajdrihova ulica",
+    "lat": 46.041541,
+    "lng": 14.4920277
+  },
+  {
+    "Ime": "Medicinska Fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0546883,
+    "lng": 14.5236849
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Zoisova cesta",
+    "lat": 46.0457902,
+    "lng": 14.5042595
+  },
+  {
+    "Ime": "Biotehniška fakulteta, Oddelek za agronomijo",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0501814,
+    "lng": 14.4728731
+  },
+  {
+    "Ime": "Biotehniška fakulteta, Oddelek za lesarstvo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Rožna dolina Cesta VIII",
+    "lat": 46.0487215,
+    "lng": 14.4786464
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0491004,
+    "lng": 14.4782153
+  },
+  {
+    "Ime": "Biotehniška fakulteta, Oddelek za gozdarstvo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Večna pot",
+    "lat": 46.0503113,
+    "lng": 14.4780865
+  },
+  {
+    "Ime": "Univerza v Ljubljani, Fakulteta za strojništvo, Katedra za modeliranje v tehniki in medicini",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jamova cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0450992,
+    "lng": 14.4933225
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0429708,
+    "lng": 14.4899496
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0428648,
+    "lng": 14.4900208
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0427776,
+    "lng": 14.4902054
+  },
+  {
+    "Ime": "Fakulteta za matematiko in fiziko, oddelek za fiziko",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jadranska ulica",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0420564,
+    "lng": 14.4906306
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0453215,
+    "lng": 14.4955988
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0464534,
+    "lng": 14.4982435
+  },
+  {
+    "Ime": "Ljudska univerza Sežana",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Bazoviška cesta",
+    "PostnaStevilka": "6210",
+    "Mesto": "Sežana",
+    "lat": 45.7078757,
+    "lng": 13.8722853
+  },
+  {
+    "Ime": "Univerza v Ljubljani, Fakulteta za šport",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0509812,
+    "lng": 14.5333316
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0459032,
+    "lng": 14.4956216
+  },
+  {
+    "Ime": "Fakulteta za gradbeništvo in geodezijo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jamova cesta",
+    "PostnaStevilka": "1000",
+    "lat": 46.04602,
+    "lng": 14.4953144
+  },
+  {
+    "Ime": "Fakulteta za humanistične študije Koper",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 45.548141,
+    "lng": 13.7290106
+  },
+  {
+    "Ime": "UL Fakulteta za kemijo in kemijsko tehnologijo",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.fkkt.uni-lj.si",
+    "Ulica": "Večna pot",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0502301,
+    "lng": 14.4681064
+  },
+  {
+    "Ime": "UL Fakulteta za računalništvo in informatiko",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://fri.uni-lj.si/",
+    "Ulica": "Večna pot",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0495299,
+    "lng": 14.4690852
+  },
+  {
+    "Ime": "Fakulteta za logistiko",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://fl.um.si/",
+    "Ulica": "Mariborska cesta",
+    "PostnaStevilka": "3000",
+    "lat": 46.2343932,
+    "lng": 15.2677411
+  },
+  {
+    "Ime": "UL Pedagoška Fakulteta",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.pef.uni-lj.si/",
+    "Ulica": "Kardeljeva ploščad",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "Wikidata": "Q11073880",
+    "Wikipedia": "sl:Pedagoška fakulteta v Ljubljani",
+    "lat": 46.0757332,
+    "lng": 14.5184935
+  },
+  {
+    "Ime": "Fakulteta za Pomorstvo in Promet Portorož",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Pot pomorščakov",
+    "PostnaStevilka": "6320",
+    "Mesto": "Portorož",
+    "lat": 45.5163592,
+    "lng": 13.5787315
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 45.5487282,
+    "lng": 13.7314862
+  },
+  {
+    "Ime": "Dvorana Zlato polje",
+    "Zvrst": "visokošolska ustanova",
+    "PostnaStevilka": "4000",
+    "Mesto": "Kranj",
+    "lat": 46.2509217,
+    "lng": 14.3494457
+  },
+  {
+    "Ime": "Fakulteta za organizacijske vede",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://fov.um.si/",
+    "Ulica": "Kidričeva cesta",
+    "PostnaStevilka": "4000",
+    "Mesto": "Kranj",
+    "lat": 46.2511907,
+    "lng": 14.3491522
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 45.7748551,
+    "lng": 14.2136765
+  },
+  {
+    "Ime": "Šolski center Kranj",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Kidričeva cesta",
+    "PostnaStevilka": "4000",
+    "Mesto": "Kranj",
+    "Wikidata": "Q30263627",
+    "lat": 46.2502769,
+    "lng": 14.3483027
+  },
+  {
+    "Ime": "Fakulteta za energetiko",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "https://www.fe.um.si/",
+    "Ulica": "Hočevarjev trg",
+    "PostnaStevilka": "8270",
+    "Mesto": "Krško",
+    "lat": 45.9677275,
+    "lng": 15.4843066
+  },
+  {
+    "Ime": "Akademija za likovno umetnost in oblikovanje",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://www.aluo.uni-lj.si",
+    "Ulica": "Erjavčeva cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0499725,
+    "lng": 14.4964234
+  },
+  {
+    "Ime": "Fakulteta za turizem",
+    "Zvrst": "visokošolska ustanova",
+    "SpletnaStran": "http://ft.um.si/",
+    "Ulica": "Cesta prvih borcev",
+    "PostnaStevilka": "8250",
+    "Mesto": "Brežice",
+    "lat": 45.9053675,
+    "lng": 15.5920242
+  },
+  {
+    "Ime": "Univerza v Ljubljani, Biotehniška fakulteta, oddelek za Agronomijo, Hortikulturni Center Križcijan",
+    "Zvrst": "visokošolska ustanova",
+    "PostnaStevilka": "5291",
+    "Mesto": "Miren",
+    "lat": 45.8996949,
+    "lng": 13.6207841
+  },
+  {
+    "Ime": "RRC Perftech",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Jadranska ulica",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0420564,
+    "lng": 14.4906306
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.2559276,
+    "lng": 14.9584801
+  },
+  {
+    "Ime": "FERI - G2",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Koroška cesta",
+    "PostnaStevilka": "2000",
+    "Mesto": "Maribor",
+    "lat": 46.5595153,
+    "lng": 15.6381305
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5595817,
+    "lng": 15.6386736
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5594687,
+    "lng": 15.6388006
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.559314,
+    "lng": 15.6386307
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.558879,
+    "lng": 15.6384674
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5588971,
+    "lng": 15.6384749
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5593313,
+    "lng": 15.6391793
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5591877,
+    "lng": 15.6398701
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5589635,
+    "lng": 15.641205
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5589028,
+    "lng": 15.6407925
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.5590741,
+    "lng": 15.6404755
+  },
+  {
+    "Ime": "Stavba je del visokošolskega zavoda",
+    "Zvrst": "visokošolska ustanova",
+    "lat": 46.0489878,
+    "lng": 14.4786803
+  },
+  {
+    "Ime": "Fakulteta za elektrotehniko",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Tržaška cesta",
+    "PostnaStevilka": "1000",
+    "Mesto": "Ljubljana",
+    "lat": 46.0450492,
+    "lng": 14.4893016
+  },
+  {
+    "Ime": "Visoka šola za vinogradništvo in vinarstvo",
+    "Zvrst": "visokošolska ustanova",
+    "Ulica": "Glavni trg",
+    "PostnaStevilka": "5271",
+    "Mesto": "Vipava",
+    "lat": 45.8453485,
+    "lng": 13.9628528
+  }
+]
